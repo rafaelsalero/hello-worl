@@ -1,2 +1,4 @@
-# hello-worl
+# hello-world
 The beginning
+
+Rafael Salero
